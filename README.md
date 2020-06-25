@@ -16,5 +16,5 @@ IP_Addr_hsot someinternalhost
 
 testapp_IP = 84.201.132.202
 testapp_port = 9292
-Самостоятельное задание скрипты: install_mongodb.sh, install_ruby.sh,deploy.sh, instance_create.sh vs metadata.yml
+Самостоятельное задание скрипты: install_mongodb.sh, install_ruby.sh,deploy.sh, startup.sh vs metadata.yml
 
