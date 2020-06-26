@@ -10,3 +10,11 @@ Host IP_Add_host
 
 2) для подключения по hostname в дополнение к предыдущей команде надо еще добавить запись в /etc/hosts виде:
 IP_Addr_hsot someinternalhost
+
+------------------------
+ДЗ №4
+
+testapp_IP = 84.201.156.46
+testapp_port = 9292
+Самостоятельное задание скрипты: install_mongodb.sh, install_ruby.sh,deploy.sh, startup.sh vs metadata.yml
+
