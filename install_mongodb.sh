@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 # MongoDB installation and autostart script
 sudo apt-get install -y apt-transport-https
 wget -qO - https://www.mongodb.org/static/pgp/server-4.2.asc | sudo apt-key add -

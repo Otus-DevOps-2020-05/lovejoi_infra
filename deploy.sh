@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 #Deploy our application
 sudo apt-get install -y git
 git clone -b monolith https://github.com/express42/reddit.git
