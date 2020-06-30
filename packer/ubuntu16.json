@@ -3,7 +3,7 @@
         {
             "type": "yandex",
             "service_account_key_file": "{{user `path_to_service_account_key`}}",
-            "folder_id": "{{user `catalogue_id`}",
+            "folder_id": "{{user `catalogue_id`}}",
             "source_image_family": "{{user `os_image_id`}}",
             "image_name": "reddit-base-{{timestamp}}",
             "image_family": "reddit-base",
