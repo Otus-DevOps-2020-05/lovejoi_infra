@@ -18,3 +18,6 @@ testapp_IP = 84.201.156.46
 testapp_port = 9292
 Самостоятельное задание скрипты: install_mongodb.sh, install_ruby.sh,deploy.sh, startup.sh vs metadata.yml
 
+ДЗ №5
+Спомощью packer описана способ сборки имиджа для yandex облака с преустановленными ruby & mongo 
+
