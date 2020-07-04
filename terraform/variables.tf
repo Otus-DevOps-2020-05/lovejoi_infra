@@ -21,3 +21,7 @@ description = "Subnet"
 variable private_key_path {
 description = "~/.ssh/ubuntu"
 } 
+variable public_key_path {
+description = "~/.ssh/ubuntu.pub"
+}
+ 

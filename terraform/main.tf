@@ -23,7 +23,7 @@ subnet_id = var.subnet_id
 nat = true
 }
 metadata = {
-  ssh-keys = "ubuntu:${file("~/.ssh/ubuntu.pub")}"
+  ssh-keys = "ubuntu:${file(var.public_key_path)}"
   }
 connection {
 type = "ssh"
