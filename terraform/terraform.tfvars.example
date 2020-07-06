@@ -1,0 +1,8 @@
+token = "xxxxxxx_xxxxxxxxxxxxxx"
+cloud_id = "xxxxxxxxxxxxxxx"
+folder_id = "xxxxxxxxxxxxxxxx"
+zone = "xxxxxxxxxxx"
+image_id = "xxxxxxxxxxxxxxx"
+subnet_id = "xxxxxxxxxxxxxxxxxxxxxxxx"
+private_key_path = "~/.ssh/yc"
+public_key_path = "~/.ssh/yc.pub"
