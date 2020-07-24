@@ -26,10 +26,10 @@ description = "~/.ssh/ubuntu.pub"
 }
 variable app_disk_image {
 description = "Disk image for reddit app"
-default = "reddit-app-base"
+default = "app_disk_image"
 }
 variable db_disk_image {
   description = "Disk image for reddit db"
-  default = "reddit-db-base"
+  default = "db_disk_image"
 }
  
